@@ -3,7 +3,7 @@
 ###################
 By using hitting the API endpoint we can store the news details in the table
 or
-Just start the upload task to autometic it create task in rabbitmq(msg broker)
+Just start the upload task to automatic it create task by celery in rabbitmq(msg broker)
 and
 Start the worker to execute the task stored in rabbitmq
 
