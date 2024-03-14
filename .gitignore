@@ -1,0 +1,6 @@
+*.bak
+*.dat
+*.dir
+__pycache__/
+udo mysqld
+.env
